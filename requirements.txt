@@ -1,0 +1,13 @@
+flask
+flask-security
+flask-wtf
+flask-script
+flask-sqlalchemy
+flask-migrate
+fake-factory
+arrow
+markdown
+bleach
+psycopg2
+mixer
+bcrypt
